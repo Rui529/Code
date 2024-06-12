@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Rui529
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+本仓库用于存放开发所使用的固定代码模块
 
-<!---
-Rui529/Rui529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-this is a new user,
-I don't know how to use the github.
+最后更新于 2024.6.12
+
+更新记录
+2024.6.12
+添加了STC89C52的公用模块，包含：
+
+
